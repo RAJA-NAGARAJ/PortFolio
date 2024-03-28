@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PortFolio/static/css/main.878e4aea.css",
+    "main.js": "/PortFolio/static/js/main.23233376.js",
+    "static/js/453.bb1799d0.chunk.js": "/PortFolio/static/js/453.bb1799d0.chunk.js",
+    "static/media/portpolio.png": "/PortFolio/static/media/portpolio.0cbf00df96e99fa4a506.png",
+    "static/media/photo.jpeg": "/PortFolio/static/media/photo.a6177bca5e42e2133353.jpeg",
+    "static/media/skills.png": "/PortFolio/static/media/skills.86179153e898a62adccd.png",
+    "static/media/Hospital.png": "/PortFolio/static/media/Hospital.56f7c7f51cd40b25dd27.png",
+    "static/media/RFID.png": "/PortFolio/static/media/RFID.90a346cad85b629eb11a.png",
+    "static/media/MERN.png": "/PortFolio/static/media/MERN.b0f4aac9d371058a095e.png",
+    "static/media/Employee.png": "/PortFolio/static/media/Employee.56b045ee52e1d3b6b1a1.png",
+    "index.html": "/PortFolio/index.html",
+    "main.878e4aea.css.map": "/PortFolio/static/css/main.878e4aea.css.map",
+    "main.23233376.js.map": "/PortFolio/static/js/main.23233376.js.map",
+    "453.bb1799d0.chunk.js.map": "/PortFolio/static/js/453.bb1799d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.878e4aea.css",
+    "static/js/main.23233376.js"
+  ]
+}
